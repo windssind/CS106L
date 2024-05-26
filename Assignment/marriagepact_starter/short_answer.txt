@@ -1,0 +1,11 @@
+1. 
+set use red-black Balance Tree under the hook, while unorderSet use hash bucket under the hook.
+int Hash(const string& name){
+    if (name == ""){
+        return -1;
+    }
+    // functions
+}
+2.
+
+3.
